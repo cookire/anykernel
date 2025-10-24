@@ -4,14 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=NoName - laurel_sprout
+kernel.string=Lineage
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=laurel_sprout
-device.name2=MI A3
+device.name1=equuleus
+device.name2=Mi8Pro
 supported.versions=10.0-15.0
 supported.patchlevels=
 '; } # end properties
